@@ -3,4 +3,4 @@ This is just Combo Algorithm for my Game....
 
 # Hasilnya
 
-![alt text](https://github.com/imandana/MyComboAlgorithm/blob/main/hasil.png?raw=true)
+![alt text](https://raw.githubusercontent.com/imandana/MyComboAlgorithm/main/hasil.PNG)
